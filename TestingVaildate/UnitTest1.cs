@@ -71,7 +71,7 @@ namespace UserRegisrationTest
         {
             // Arrange 
             bool expected = true;
-            string password = "abcdfghihgE1@";
+            string password = "adfsdrfvresf1@";
             RegexClass user = new RegexClass();
 
             // Act
